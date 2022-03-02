@@ -1,1 +1,4 @@
-git commit
+git commit -m "your message" 
+git push
+git pull
+git 
